@@ -1,0 +1,13 @@
+state={
+	id=456
+	name="STATE_456"
+	provinces={
+		324 358 1129 1458 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = SAM
+		add_core_of = SAM
+	}
+}

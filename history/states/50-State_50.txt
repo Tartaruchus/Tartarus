@@ -1,0 +1,14 @@
+state={
+	id=50
+	name="STATE_50"
+	provinces={
+		155 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = GIL
+		add_core_of = GIL
+	}
+	
+}

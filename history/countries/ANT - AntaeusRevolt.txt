@@ -1,0 +1,42 @@
+capital = 212
+
+
+create_country_leader = {
+	name = "Antaeus"
+	desc = "POLITICS_ANTAEUS_DESC"
+	picture = "Antaeus.dds"
+	expire = "1965.1.1"
+	ideology = titanic_god
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {
+			fallen = {
+				popularity = 5
+				
+			}
+
+			misotheistic = {
+				popularity = 10
+				
+			}
+
+			demonic = {
+				popularity = 20
+				
+			}
+		
+			titanic = { 
+				popularity = 65
+			}
+		}
+	
+		ruling_party = titanic
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

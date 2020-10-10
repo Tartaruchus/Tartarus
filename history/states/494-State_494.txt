@@ -1,0 +1,13 @@
+state={
+	id=494
+	name="STATE_494"
+	provinces={
+		848 1511 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = MAI
+		add_core_of = MAI
+	}
+}

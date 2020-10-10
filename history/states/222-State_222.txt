@@ -1,0 +1,13 @@
+state={
+	id=222
+	name="STATE_222"
+	provinces={
+		1367 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = KRO
+		add_core_of = KRO
+	}
+}

@@ -1,0 +1,13 @@
+state={
+	id=392
+	name="STATE_392"
+	provinces={
+		901 1435 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = PAM
+		add_core_of = PAM
+	}
+}

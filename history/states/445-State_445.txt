@@ -1,0 +1,13 @@
+state={
+	id=445
+	name="STATE_445"
+	provinces={
+		240 682 1341 1416 1686 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = SAM
+		add_core_of = SAM
+	}
+}

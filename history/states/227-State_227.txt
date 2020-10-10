@@ -1,0 +1,13 @@
+state={
+	id=227
+	name="STATE_227"
+	provinces={
+		320 1133 1611 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = ADM
+		add_core_of = ADM
+	}
+}

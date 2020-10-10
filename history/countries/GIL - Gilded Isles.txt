@@ -1,0 +1,33 @@
+capital = 448
+
+
+create_country_leader = {
+	name = "King Midas"
+	desc = "POLITICS_MIDAS_DESC"
+	picture = "KingMidas.png"
+	expire = "1965.1.1"
+	ideology = avarice
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {
+			misotheistic = {
+				popularity = 5
+				
+			}
+
+			hedonic = {
+				popularity = 95
+				
+			}
+		}
+	
+		ruling_party = hedonic
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

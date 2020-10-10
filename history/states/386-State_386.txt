@@ -1,0 +1,13 @@
+state={
+	id=386
+	name="STATE_386"
+	provinces={
+		286 505 856 1316 1380 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = LEV
+		add_core_of = LEV
+	}
+}

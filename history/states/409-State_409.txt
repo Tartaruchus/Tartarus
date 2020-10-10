@@ -1,0 +1,13 @@
+state={
+	id=409
+	name="STATE_409"
+	provinces={
+		2 446 1584 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = BUC
+		add_core_of = BUC
+	}
+}

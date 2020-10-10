@@ -1,0 +1,42 @@
+capital = 392
+
+
+create_country_leader = {
+	name = "Lucifer"
+	desc = "POLITICS_LUCIFER_DESC"
+	picture = "Lucifer_Portrait_Fall.png"
+	expire = "1965.1.1"
+	ideology = luciferic
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {
+			misotheistic = {
+				popularity = 5
+				
+			}
+
+			hedonic = {
+				popularity = 10
+				
+			}
+
+			demonic = {
+				popularity = 20
+				
+			}
+		
+			fallen = { 
+				popularity = 65
+			}
+		}
+	
+		ruling_party = fallen
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

@@ -1,0 +1,41 @@
+ideas = {
+	country = {
+		social_war = {
+			picture = anti_soviet_pact
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			modifier = {
+				drift_defence_factor = 0.5
+			}
+			
+			rule = {
+				can_create_factions = yes
+			}			
+		}
+		cult_of_fortuna = {
+			picture = fortuna_cult
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			modifier = {
+				drift_defence_factor = -0.5
+			}
+						
+		}
+	}
+}

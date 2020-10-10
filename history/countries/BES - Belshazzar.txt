@@ -1,0 +1,48 @@
+capital = 430
+
+
+create_country_leader = {
+	name = "Mammon"
+	desc = "POLITICS_MAMMON_DESC"
+	picture = "Mammon.png"
+	expire = "1965.1.1"
+	ideology = greater_demon
+	traits = {
+		#
+	}
+}
+
+add_ideas = {
+	social_war
+	cult_of_fortuna
+}
+
+set_politics = {
+
+		parties = {
+			olympian = {
+				popularity = 5
+				
+			}
+
+			fallen = {
+				popularity = 15
+
+				
+			}
+
+			hedonic = {
+				popularity = 20
+				
+			}
+		
+			demonic = { 
+				popularity = 65
+			}
+		}
+	
+		ruling_party = demonic
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

@@ -1,0 +1,13 @@
+state={
+	id=430
+	name="STATE_430"
+	provinces={
+		93 1031 1300 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = BES
+		add_core_of = BES
+	}
+}

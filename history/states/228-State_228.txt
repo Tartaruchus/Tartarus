@@ -1,0 +1,13 @@
+state={
+	id=228
+	name="STATE_228"
+	provinces={
+		360 581 645 738 783 1146 1613 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = SHE
+		add_core_of = SHE
+	}
+}

@@ -1,0 +1,13 @@
+state={
+	id=229
+	name="STATE_229"
+	provinces={
+		836 899 908 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = ATH
+		add_core_of = ATH
+	}
+}

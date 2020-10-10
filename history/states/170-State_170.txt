@@ -1,0 +1,13 @@
+state={
+	id=170
+	name="STATE_170"
+	provinces={
+		380 683 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = DIS
+		add_core_of = DIS
+	}
+}

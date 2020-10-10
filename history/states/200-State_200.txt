@@ -1,0 +1,13 @@
+state={
+	id=200
+	name="STATE_200"
+	provinces={
+		285 341 539 932
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = DIS
+		add_core_of = DIS
+	}
+}

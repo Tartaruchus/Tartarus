@@ -1,0 +1,33 @@
+capital = 254
+
+
+create_country_leader = {
+	name = "Barabbas" 
+	desc = "POLITICS_BARABBAS_DESC"
+	picture = "Barabbas.png"
+	expire = "1965.1.1"
+	ideology = deicidal
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {
+
+			hedonic = {
+				popularity = 25
+				
+			}
+		
+			misotheistic= { 
+				popularity = 75
+			}
+		}
+	
+		ruling_party = misotheistic
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

@@ -1,0 +1,15 @@
+state={
+	id=260
+	name="STATE_260"
+	provinces={
+		548 814 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = ZEB
+		add_core_of = ZEB
+	}
+
+	
+}

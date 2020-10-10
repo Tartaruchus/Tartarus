@@ -1,0 +1,13 @@
+state={
+	id=264
+	name="STATE_264"
+	provinces={
+		29 288 1445 1625 1636 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = GOM
+		add_core_of = GOM
+	}
+}

@@ -1,0 +1,13 @@
+state={
+	id=187
+	name="STATE_187"
+	provinces={
+		154 523 1061 1110 1348 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = SOD
+		add_core_of = SOD
+	}
+}

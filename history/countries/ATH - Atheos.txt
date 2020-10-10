@@ -1,0 +1,42 @@
+capital = 219
+
+
+create_country_leader = {
+	name = "Theodorus the Atheist"
+	desc = "POLITICS_THEODORUS_DESC"
+	picture = "Theodorus.png"
+	expire = "1965.1.1"
+	ideology = deicidal
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {
+			fallen = {
+				popularity = 5
+				
+			}
+
+			olympian = {
+				popularity = 10
+				
+			}
+
+			hedonic = {
+				popularity = 20
+				
+			}
+		
+			misotheistic = { 
+				popularity = 65
+			}
+		}
+	
+		ruling_party = misotheistic
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

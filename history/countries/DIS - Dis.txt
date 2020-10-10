@@ -1,0 +1,33 @@
+capital = 235
+
+
+create_country_leader = {
+	name = "Hades"
+	desc = "POLITICS_HADES_DESC"
+	picture = "Hades.png"
+	expire = "1965.1.1"
+	ideology = olympic_god
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {
+
+			titanic = {
+				popularity = 20
+				
+			}
+		
+			olympian = { 
+				popularity = 80
+			}
+		}
+	
+		ruling_party = olympian
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

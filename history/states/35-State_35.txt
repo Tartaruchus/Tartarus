@@ -1,0 +1,13 @@
+state={
+	id=35
+	name="STATE_35"
+	provinces={
+		1014 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = GAT
+		add_core_of = GAT
+	}
+}

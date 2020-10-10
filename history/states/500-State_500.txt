@@ -1,0 +1,13 @@
+state={
+	id=500
+	name="STATE_500"
+	provinces={
+		348 370 385 450 1545 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = VAN
+		add_core_of = VAN
+	}
+}

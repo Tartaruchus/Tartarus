@@ -1,0 +1,13 @@
+state={
+	id=387
+	name="STATE_387"
+	provinces={
+		897 1253 1281 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = MAI
+		add_core_of = MAI
+	}
+}

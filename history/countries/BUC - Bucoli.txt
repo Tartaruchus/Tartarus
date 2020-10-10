@@ -1,0 +1,42 @@
+capital = 219
+
+
+create_country_leader = {
+	name = "Isidorus"
+	desc = "POLITICS_ISIDORUS_DESC"
+	picture = "Isidorus.png"
+	expire = "1965.1.1"
+	ideology = gluttony
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {
+			fallen = {
+				popularity = 5
+				
+			}
+
+			misotheistic = {
+				popularity = 10
+				
+			}
+
+			demonic = {
+				popularity = 20
+				
+			}
+		
+			hedonic = { 
+				popularity = 65
+			}
+		}
+	
+		ruling_party = hedonic 
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

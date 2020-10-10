@@ -1,0 +1,13 @@
+state={
+	id=396
+	name="STATE_396"
+	provinces={
+		122 824 1665 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = BES
+		add_core_of = BES
+	}
+}

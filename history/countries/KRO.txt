@@ -1,0 +1,33 @@
+capital = 247
+
+
+create_country_leader = {
+	name = "Melinoe"
+	desc = "POLITICS_MELINOE_DESC"
+	picture = "Melinoe.png"
+	expire = "1965.1.1"
+	ideology = olympic_god
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {=
+
+			demonic = {
+				popularity = 35
+				
+			}
+		
+			olympian = { 
+				popularity = 65
+			}
+		}
+	
+		ruling_party = olympian
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

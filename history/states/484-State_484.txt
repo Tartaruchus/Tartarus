@@ -1,0 +1,13 @@
+state={
+	id=484
+	name="STATE_484"
+	provinces={
+		144 593 732 753 1291 1321 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = INC
+		add_core_of = INC
+	}
+}

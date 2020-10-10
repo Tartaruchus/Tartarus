@@ -1,0 +1,37 @@
+capital = 219
+
+
+create_country_leader = {
+	name = "Julian the Apostate"
+	desc = "POLITICS_JULIAN_DESC"
+	picture = "Julian.png"
+	expire = "1965.1.1"
+	ideology = olympian_devout
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {
+			demonic = {
+				popularity = 15
+				
+			}
+
+			hedonic = {
+				popularity = 20
+				
+			}
+		
+			olympian = { 
+				popularity = 65
+			}
+		}
+	
+		ruling_party = olympian
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

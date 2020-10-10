@@ -1,0 +1,35 @@
+spriteTypes = {
+
+spriteType = {
+		name = "GFX_ideology_demonic_group"
+		texturefile = "gfx//interface//ideologies//demonic_group.dds"
+	}
+spriteType = {
+		name = "GFX_ideology_fallen_group"
+		texturefile = "gfx//interface//ideologies//fallen_group.dds"
+	}
+spriteType = {
+		name = "GFX_ideology_titanic_group"
+		texturefile = "gfx//interface//ideologies//titanic_group.dds"
+	}
+spriteType = {
+		name = "GFX_ideology_gnostic_group"
+		texturefile = "gfx//interface//ideologies//gnostic_group.dds"
+	}
+spriteType = {
+		name = "GFX_ideology_angelic_group"
+		texturefile = "gfx//interface//ideologies//angelic_group.dds"
+	}
+spriteType = {
+		name = "GFX_ideology_hedonic_group"
+		texturefile = "gfx//interface//ideologies//hedonic_group.dds"
+	}
+spriteType = {
+		name = "GFX_ideology_misotheistic_group"
+		texturefile = "gfx//interface//ideologies//misotheistic_group.dds"
+	}
+spriteType = {
+		name = "GFX_ideology_olympian_group"
+		texturefile = "gfx//interface//ideologies//olympian_group.dds"
+	}
+}

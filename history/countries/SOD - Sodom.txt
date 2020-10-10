@@ -1,0 +1,42 @@
+capital = 171
+
+
+create_country_leader = {
+	name = "Bera"
+	desc = "POLITICS_BERA_DESC"
+	picture = "Bera.png"
+	expire = "1965.1.1"
+	ideology = penitent
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {
+			fallen = {
+				popularity = 5
+				
+			}
+
+			misotheistic = {
+				popularity = 10
+				
+			}
+
+			hedonic = {
+				popularity = 20
+				
+			}
+		
+			angelic = { 
+				popularity = 65
+			}
+		}
+	
+		ruling_party = angelic
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

@@ -1,0 +1,13 @@
+state={
+	id=369
+	name="STATE_369"
+	provinces={
+		823 1068 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = BEA
+		add_core_of = BEA
+	}
+}

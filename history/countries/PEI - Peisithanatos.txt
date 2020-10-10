@@ -1,0 +1,42 @@
+capital = 219
+
+
+create_country_leader = {
+	name = "Hegesias"
+	desc = "POLITICS_HEGESIAS_DESC"
+	picture = "Hegesias.png"
+	expire = "1965.1.1"
+	ideology = heresy
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {
+			fallen = {
+				popularity = 5
+				
+			}
+
+			olympian = {
+				popularity = 10
+				
+			}
+
+			misotheistic = {
+				popularity = 20
+				
+			}
+		
+			hedonic = { 
+				popularity = 65
+			}
+		}
+	
+		ruling_party = hedonic 
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}

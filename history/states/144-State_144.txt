@@ -1,0 +1,13 @@
+state={
+	id=144
+	name="STATE_144"
+	provinces={
+		306 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = PEI
+		add_core_of = PEI
+	}
+}

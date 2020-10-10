@@ -1,0 +1,33 @@
+capital = 403
+
+
+create_country_leader = {
+	name = "Hophni" 
+	desc = "POLITICS_HOPHNI_DESC"
+	picture = "Hophni.png"
+	expire = "1965.1.1"
+	ideology = gluttony
+	traits = {
+		#
+	}
+}
+
+set_politics = {
+
+		parties = {
+
+			demonic = {
+				popularity = 25
+				
+			}
+		
+			hedonic = { 
+				popularity = 75
+			}
+		}
+	
+		ruling_party = hedonic 
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}
